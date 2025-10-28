@@ -55,14 +55,14 @@ To compile and run this project, ensure your environment meets the following:
 
 You can build and launch the Binary Search Tree Simulator using the provided `commands.sh` script. This script automates the setup process, compiles all source files, and runs the graphical interface.
 
-### 🧬 Clone the Repository
+#### 🧬 Clone the Repository
 
 ```
 git clone git@github.com:compscibro/BinarySearchTreeSimulator.git
 cd BinarySearchTreeSimulator
 ```
 
-### ⚙️ Make Executable and Run
+#### ⚙️ Make Executable and Run
 
 ```
 chmod +x commands.sh
