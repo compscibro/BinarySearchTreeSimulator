@@ -1,4 +1,4 @@
-# 🌳 Binary Search TreeS imulator
+# 🌳 Binary Search Tree Simulator
 
 The ThreeTen Binary Search Tree Simulator is a Java-based academic project that implements a recursive Binary Search Tree (BST) and extends it into an AVL self-balancing tree to maintain efficient performance during insertions and lookups. The system recursively processes text input to count the frequency of all characters—including letters, digits, punctuation, and whitespace—and dynamically balances the tree using rotation algorithms. Built with a focus on object-oriented principles, algorithmic efficiency, and recursion, the simulator features a graphical interface (SimGUI) for visualizing tree operations, making it an effective tool for understanding real-world applications of data structures and algorithm design.
 
