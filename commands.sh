@@ -13,5 +13,8 @@ javac src/*.java -d out -cp lib/310libs.jar
 # Run the simulator GUI
 java -cp out:lib/310libs.jar SimGUI
 
+# (Optional) for JavaDoc
+# javadoc -d docs/javadoc -cp lib/310libs.jar src/*.java
+
 # Sample text for character frequency visualization:
 # "When Mr. Bilbo Baggins of Bag End announced that he would shortly be celebrating..."
