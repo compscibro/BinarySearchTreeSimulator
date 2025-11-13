@@ -13,6 +13,12 @@ The ThreeTen Binary Search Tree Simulator is a Java-based academic project that 
     </a>
 </div>
 
+## Class Diagram
+
+<p align="center">
+  <img src="docs/diagrams/ClassDiagram.png" alt="Class Diagram" width="600">
+</p>
+
 ## 📁 Project Structure
 
 ```
